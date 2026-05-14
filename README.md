@@ -87,7 +87,7 @@ Cardputer Zero & Zero Lite are upcoming credit-card/palm-sized handheld computer
 
 ### Specs\* :
 | Hardware | Spec | Available on Lite\*\* |
-|:---:|:---:|:---:|
+|:---:|:---|:---:|
 | SoC | [RP3A0](https://www.raspberrypi.com/documentation/computers/processors.html#rp3a0) ([BCM2837](https://www.raspberrypi.com/documentation/computers/processors.html#bcm2837)) - Same chip as in Pi Zero 2W <br> quad-core Cortex-A53 @ 1 GHz (ARMv8-A - aarch64) | ✅ |
 | RAM | 512MB LPDDR2 ([PoP](https://en.wikipedia.org/wiki/Package_on_a_package), integrated in RP3A0) | ✅ |
 | Storage | microSD card slot (SDIO)\*\*\* | ✅ |
