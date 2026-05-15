@@ -14,7 +14,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 ### *Shop/Sales-related* :
 - [M5Stack official shop](https://shop.m5stack.com/)
 - [Cardputer Zero Super Early Bird Kickstarter reservations](https://m5stack.com/cardputerzero)
-
+- [Check your Cardputer Zero Super Early Bird reservation](https://vm.pledgebox.com/query/Cardputer-Zero)
 - [Cardputer Zero Kickstarter page](https://www.kickstarter.com/projects/m5stack/cardputerzero)
 
 ### *Communication* :
