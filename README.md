@@ -54,6 +54,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`CardputerZero/m5stack-imager` - M5Stack-oriented imaging software for Raspberry Pi](https://github.com/CardputerZero/m5stack-imager)
 - [`dianjixz/cm0-firmware` - Pre-compiled binaries of kernel & modules for CM0](https://github.com/dianjixz/cm0-firmware)
 - [`CardputerZero/circle-boot-splash` - Bare metal boot splash screen for Cardputer Zero](https://github.com/CardputerZero/circle-boot-splash)
+- [`CardputerZero/u-boot` - Open source bootloader for embedded systems](https://github.com/CardputerZero/u-boot)
 
 ### *App Distribution/Registry* :
 - [`CardputerZero/packages` - APT Repository for Cardputer Zero applications](https://github.com/CardputerZero/packages)
@@ -70,6 +71,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`CardputerZero/VibApp` - VibApp Launcher & Client](https://github.com/CardputerZero/VibApp)
 - [`CardputerZero/LoFiBox-Zero` - Linux-oriented Cardputer Zero's Music player](https://github.com/CardputerZero/LoFiBox-Zero)
 - [`CardputerZero/Calendar` - Calendar application for Cardputer Zero](https://github.com/CardputerZero/Calendar)
+- [`geo-tp/Retro-Zero` - Libretro-based emulator frontend for Cardputer Zero](https://github.com/geo-tp/Retro-Zero)
 
 ### *Examples* :
 - [`eggfly/CardputerZero-Examples` - App demos for Cardputer Zero](https://github.com/eggfly/CardputerZero-Examples)
