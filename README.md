@@ -25,6 +25,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [M5Stack on Facebook](https://www.facebook.com/M5Stack) | [Cardputer Zero Launch Group on Facebook](https://www.facebook.com/groups/960129956410838)
 - [M5Stack on YouTube](https://www.youtube.com/m5stack)
 - [M5Stack on TikTok](https://www.tiktok.com/@m5stack)
+- [M5Stack on 小红书/RedNote](https://www.xiaohongshu.com/user/profile/65fc4a98000000000b00e424)
 - [M5Stack on Hackster](https://www.hackster.io/m5stack)
 - [M5Stack on Discord](https://discord.gg/ysQAWBUE9Q)
 
@@ -79,9 +80,10 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 ### *Websites & Docs* :
 - [`CardputerZero/cardputerzero.github.io` - Cardputer Zero's online app store & Web UI](https://github.com/CardputerZero/cardputerzero.github.io)
 
-### *Launcher Replacements* :
+### *Launcher Replacements & OSes* :
 This special category is dedicated to repos containing software that replaces the Launcher.
 - [`7h30th3r0n3/Raspyjack` - Offensive toolkit with Web UI, payload launcher & payload](https://github.com/7h30th3r0n3/Raspyjack)
+- [`jayis1/Zero-Day-OS-` - Lightweight pentesting OS for Cardputer Zero](https://github.com/jayis1/Zero-Day-OS-)
 
 ---
 ## About Cardputer Zero
