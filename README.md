@@ -36,6 +36,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [dianjixz's GitHub profile](https://github.com/dianjixz)
 - [zhuzhe1983's GitHub profile](https://github.com/zhuzhe1983)
 - [Cardputer Zero repo collection - This repo as a star list](https://github.com/stars/UnAneOnyme/lists/cardputer-zero)
+- [Cardputer Zero repo collection - This repo, featured in Cardputer Zero's organization](https://github.com/CardputerZero/CardputerZeroCollection)
 
 ---
 ## Repositories
@@ -56,6 +57,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`dianjixz/cm0-firmware` - Pre-compiled binaries of kernel & modules for CM0](https://github.com/dianjixz/cm0-firmware)
 - [`CardputerZero/circle-boot-splash` - Bare metal boot splash screen for Cardputer Zero](https://github.com/CardputerZero/circle-boot-splash)
 - [`CardputerZero/u-boot` - Open source bootloader for embedded systems](https://github.com/CardputerZero/u-boot)
+- [`CardputerZero/cardputer-zero-os` - Cardputer Zero system profile for Debian/Raspberry Pi OS](https://github.com/CardputerZero/cardputer-zero-os)
 
 ### *App Distribution/Registry* :
 - [`CardputerZero/packages` - APT Repository for Cardputer Zero applications](https://github.com/CardputerZero/packages)
@@ -73,6 +75,9 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`CardputerZero/LoFiBox-Zero` - Linux-oriented Cardputer Zero's Music player](https://github.com/CardputerZero/LoFiBox-Zero)
 - [`CardputerZero/Calendar` - Calendar application for Cardputer Zero](https://github.com/CardputerZero/Calendar)
 - [`geo-tp/Retro-Zero` - Libretro-based emulator frontend for Cardputer Zero](https://github.com/geo-tp/Retro-Zero)
+- [`W5DMH/microjs8` - A JS8 transceiver controller for Cardputer Zero](https://github.com/W5DMH/microjs8)
+- [`JdaieLin/cardputer-xiaozhi` - XiaoZhi voice assistant ported to M5Cardputer](https://github.com/JdaieLin/cardputer-xiaozhi)
+- [`JdaieLin/cardputer-pwnagotchi` - Pwnagotchi client app for Cardputer Zero](https://github.com/JdaieLin/cardputer-pwnagotchi)
 
 ### *Examples* :
 - [`eggfly/CardputerZero-Examples` - App demos for Cardputer Zero](https://github.com/eggfly/CardputerZero-Examples)
@@ -80,10 +85,11 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 ### *Websites & Docs* :
 - [`CardputerZero/cardputerzero.github.io` - Cardputer Zero's online app store & Web UI](https://github.com/CardputerZero/cardputerzero.github.io)
 
-### *Launcher Replacements & OSes* :
-This special category is dedicated to repos containing software that replaces the Launcher.
+### *Launcher Replacements & Full OSes* :
+This special category is dedicated to repos containing software that replaces the Launcher as well as full OSes.
 - [`7h30th3r0n3/Raspyjack` - Offensive toolkit with Web UI, payload launcher & payload](https://github.com/7h30th3r0n3/Raspyjack)
 - [`jayis1/Zero-Day-OS-` - Lightweight pentesting OS for Cardputer Zero](https://github.com/jayis1/Zero-Day-OS-)
+- [`CardputerZero/cardputer-zero-shell` - Post-login GUI shell for Cardputer Zero](https://github.com/CardputerZero/cardputer-zero-shell)
 
 ---
 ## About Cardputer Zero
@@ -127,4 +133,4 @@ If:
 
 Feel free to edit & open a pull request, open a GitHub issue or contact me on Discord (@`1_ane_onyme`)
 
-**Last update on 2026-05-20**
+**Last update on 2026-05-25**
