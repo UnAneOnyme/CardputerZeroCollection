@@ -1,6 +1,5 @@
 # Cardputer Zero ~~repository~~ collection
 A collection of multiple repositories & links related to Cardputer Zero by M5Stack
-
 ---
 
 ![Cardputer](https://cdn.shopify.com/s/files/1/0056/7689/2250/files/One-Click_to_Build_Share_and_Run_6d5a481a-6e9c-4230-9284-e1ad000863e3.png)
@@ -13,9 +12,9 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 
 ### *Shop/Sales-related* :
 - [M5Stack official shop](https://shop.m5stack.com/)
-- [Cardputer Zero Super Early Bird Kickstarter reservations](https://m5stack.com/cardputerzero)
-- [Check your Cardputer Zero Super Early Bird reservation](https://vm.pledgebox.com/query/Cardputer-Zero)
 - [Cardputer Zero Kickstarter page](https://www.kickstarter.com/projects/m5stack/cardputerzero)
+- [M5Stack official website page (infos + Kickstarter link)](https://m5stack.com/cardputerzero)
+- [Check your Cardputer Zero Super Early Bird reservation](https://vm.pledgebox.com/query/Cardputer-Zero)
 
 ### *Communication* :
 - [M5Stack's official website](https://m5stack.com/)
@@ -93,7 +92,7 @@ This special category is dedicated to repos containing software that replaces th
 
 ---
 ## About Cardputer Zero
-Cardputer Zero & Zero Lite are upcoming credit-card/palm-sized handheld computers made by [M5Stack](https://m5stack.com/) & powered by a [Raspberry Pi Compute Module Zero Lite](https://www.raspberrypi.com/products/compute-module-zero/).
+Cardputer Zero & Zero Lite are upcoming credit-card/palm-sized handheld computers made by [M5Stack](https://m5stack.com/) & powered by a [Raspberry Pi Compute Module Zero Lite](https://www.raspberrypi.com/products/compute-module-zero/). As of 2026-05-26, its [Kickstarter campaign](https://www.kickstarter.com/projects/m5stack/cardputerzero) is currently live.
 
 ### Specs\* :
 | Hardware | Spec | Available on Lite\*\* |
