@@ -48,6 +48,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`m5stack/CardputerZero-AppBuilder` - Build system & Application dev toolkit](https://github.com/m5stack/CardputerZero-AppBuilder)
 - [`eggfly/CardputerZero-AppBuilder-Release` - CI/CD Wrapper for AppBuilder](https://github.com/eggfly/CardputerZero-AppBuilder-Release)
 - [`CardputerZero/skill` - Codex skills for Cardputer Zero dev](https://github.com/CardputerZero/skill)
+- [`CardputerZero/cardputer-zero-fcitx5-ui` - Fcitx5 IME UI bridge](https://github.com/CardputerZero/cardputer-zero-fcitx5-ui)
 
 ### *System & OS* :
 - [`m5stack/m5stack-linux-dtoverlays` - M5Stack devices Device Tree Overlay](https://github.com/m5stack/m5stack-linux-dtoverlays)
@@ -57,6 +58,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`CardputerZero/circle-boot-splash` - Bare metal boot splash screen for Cardputer Zero](https://github.com/CardputerZero/circle-boot-splash)
 - [`CardputerZero/u-boot` - Open source bootloader for embedded systems](https://github.com/CardputerZero/u-boot)
 - [`CardputerZero/cardputer-zero-os` - Cardputer Zero system profile for Debian/Raspberry Pi OS](https://github.com/CardputerZero/cardputer-zero-os)
+- [`CardputerZero/cardputer-zero-notifyd` - Cardputer Zero's notification daemon](https://github.com/CardputerZero/cardputer-zero-notifyd)
 
 ### *App Distribution/Registry* :
 - [`CardputerZero/packages` - APT Repository for Cardputer Zero applications](https://github.com/CardputerZero/packages)
@@ -77,6 +79,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`W5DMH/microjs8` - A JS8 transceiver controller for Cardputer Zero](https://github.com/W5DMH/microjs8)
 - [`JdaieLin/cardputer-xiaozhi` - XiaoZhi voice assistant ported to M5Cardputer](https://github.com/JdaieLin/cardputer-xiaozhi)
 - [`JdaieLin/cardputer-pwnagotchi` - Pwnagotchi client app for Cardputer Zero](https://github.com/JdaieLin/cardputer-pwnagotchi)
+- [`CardputerZero/cardputer-zero-default-apps` - Default apps bundle for Cardputer Zero Shell](https://github.com/CardputerZero/cardputer-zero-default-apps)
 
 ### *Examples* :
 - [`eggfly/CardputerZero-Examples` - App demos for Cardputer Zero](https://github.com/eggfly/CardputerZero-Examples)
@@ -108,7 +111,7 @@ Cardputer Zero & Zero Lite are upcoming credit-card/palm-sized handheld computer
 | Microphone | MEMS Microphone | ✅ |
 | Camera | Sony IMX219 (8MP 3280x2464) - 4 lanes CSI interface | ❌ |
 | Wireless | 2.4GHz Wi-Fi 802.11 b/g/n, Bluetooth 5.0 & BLE | ✅ |
-| IMU | BMI270 (gyroscope + accelerometer) | ❌ |
+| Sensors | BMI270 (6-axis gyroscope + accelerometer) <br> BMM150 (3-axis magnetometer) | ❌ |
 | RTC | RX8130CE | ✅ |
 | Infrared | Infrared TX & RX (Transmit & Receive) | ✅ |
 | Codecs | Video : Decode H.264/MPEG-4 @ 1080P 30 FPS <br> Video : Encode H.264 @ 1080P 30 FPS <br> Audio : ES8389 | ✅ |
@@ -132,4 +135,7 @@ If:
 
 Feel free to edit & open a pull request, open a GitHub issue or contact me on Discord (@`1_ane_onyme`)
 
-**Last update on 2026-05-25**
+## Quick disclaimer
+If you're reading this on [`CardputerZero/CardputerZeroCollection`](https://github.com/CardputerZero/CardputerZeroCollection), it might not be up-to-date due to me not being able to merge PR there, so just know that [`UnAneOnyme/CardputerZeroCollection`](https://github.com/UnAneOnyme/CardputerZeroCollection) might be more up-to-date.
+
+**Last update on 2026-05-29**
