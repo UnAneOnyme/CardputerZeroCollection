@@ -92,6 +92,7 @@ This special category is dedicated to repos containing software that replaces th
 - [`7h30th3r0n3/Raspyjack` - Offensive toolkit with Web UI, payload launcher & payload](https://github.com/7h30th3r0n3/Raspyjack)
 - [`jayis1/Zero-Day-OS-` - Lightweight pentesting OS for Cardputer Zero](https://github.com/jayis1/Zero-Day-OS-)
 - [`CardputerZero/cardputer-zero-shell` - Post-login GUI shell for Cardputer Zero](https://github.com/CardputerZero/cardputer-zero-shell)
+- [`n0xa/M5CZ-Kali-Graft` - Kali on Cardputer Zero, but with M5Stack's stock OS's App Launcher](https://github.com/n0xa/M5CZ-Kali-Graft)
 
 ---
 ## About Cardputer Zero
@@ -138,4 +139,4 @@ Feel free to edit & open a pull request, open a GitHub issue or contact me on Di
 ## Quick disclaimer
 If you're reading this on [`CardputerZero/CardputerZeroCollection`](https://github.com/CardputerZero/CardputerZeroCollection), it might not be up-to-date due to me not being able to merge PR there, so just know that [`UnAneOnyme/CardputerZeroCollection`](https://github.com/UnAneOnyme/CardputerZeroCollection) might be more up-to-date.
 
-**Last update on 2026-05-29**
+**Last update on 2026-06-01**
