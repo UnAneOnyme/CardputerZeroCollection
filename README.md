@@ -95,6 +95,16 @@ This special category is dedicated to repos containing software that replaces th
 - [`n0xa/M5CZ-Kali-Graft` - Kali on Cardputer Zero, but with M5Stack's stock OS's App Launcher](https://github.com/n0xa/M5CZ-Kali-Graft)
 
 ---
+## Others
+<details>
+<summary>OS Image links</summary>
+The following links have been found by Feng on M5Stack's Discord server. <br>
+⚠️ Warning : those are direct download links. ⚠️
+<ul><li>https://cardputer-zero-repo.oss-cn-shenzhen.aliyuncs.com/cardputerzero-trixie-arm64-latest.img.xz</li>
+<li>https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/linux/cp0/20250513_os.img.zip</li></ul>
+</details>
+
+---
 ## About Cardputer Zero
 Cardputer Zero & Zero Lite are upcoming credit-card/palm-sized handheld computers made by [M5Stack](https://m5stack.com/) & powered by a [Raspberry Pi Compute Module Zero Lite](https://www.raspberrypi.com/products/compute-module-zero/). As of 2026-05-26, its [Kickstarter campaign](https://www.kickstarter.com/projects/m5stack/cardputerzero) is currently live.
 
