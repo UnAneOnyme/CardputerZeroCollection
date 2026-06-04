@@ -103,6 +103,13 @@ The following links have been found by Feng on M5Stack's Discord server. <br>
 <ul><li>https://cardputer-zero-repo.oss-cn-shenzhen.aliyuncs.com/cardputerzero-trixie-arm64-latest.img.xz</li>
 <li>https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/linux/cp0/20250513_os.img.zip</li></ul>
 </details>
+<details>
+<summary>Japan-only development samples (for software & firmware devs)</summary>
+The following links have been found by Feng on M5Stack's Discord server.<br>
+<ul><li>
+<a href="https://www.switch-science.com/blogs/magazine/m5stack-cardputerzero">Switch science article</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeac_4ssqbj6ht5Tuk474Esyw16_BRBtIO6pP_QY__q5JQ0HA/viewform">Apply to get a dev sample from the Switch science collaboration - Google Forms</a></li></ul>
+</details>
 
 ---
 ## About Cardputer Zero
@@ -149,4 +156,4 @@ Feel free to edit & open a pull request, open a GitHub issue or contact me on Di
 ## Quick disclaimer
 If you're reading this on [`CardputerZero/CardputerZeroCollection`](https://github.com/CardputerZero/CardputerZeroCollection), it might not be up-to-date due to me not being able to merge PR there, so just know that [`UnAneOnyme/CardputerZeroCollection`](https://github.com/UnAneOnyme/CardputerZeroCollection) might be more up-to-date.
 
-**Last update on 2026-06-01**
+**Last major update on 2026-06-01**, minor update on 2026-06-04
