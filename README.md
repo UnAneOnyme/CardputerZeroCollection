@@ -49,6 +49,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`eggfly/CardputerZero-AppBuilder-Release` - CI/CD Wrapper for AppBuilder](https://github.com/eggfly/CardputerZero-AppBuilder-Release)
 - [`CardputerZero/skill` - Codex skills for Cardputer Zero dev](https://github.com/CardputerZero/skill)
 - [`CardputerZero/cardputer-zero-fcitx5-ui` - Fcitx5 IME UI bridge](https://github.com/CardputerZero/cardputer-zero-fcitx5-ui)
+- [`CardputerZero/template` - Starter template for building Cardputer Zero apps using LVGL](https://github.com/CardputerZero/template)
 
 ### *System & OS* :
 - [`m5stack/m5stack-linux-dtoverlays` - M5Stack devices Device Tree Overlay](https://github.com/m5stack/m5stack-linux-dtoverlays)
@@ -80,6 +81,8 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`JdaieLin/cardputer-xiaozhi` - XiaoZhi voice assistant ported to M5Cardputer](https://github.com/JdaieLin/cardputer-xiaozhi)
 - [`JdaieLin/cardputer-pwnagotchi` - Pwnagotchi client app for Cardputer Zero](https://github.com/JdaieLin/cardputer-pwnagotchi)
 - [`CardputerZero/cardputer-zero-default-apps` - Default apps bundle for Cardputer Zero Shell](https://github.com/CardputerZero/cardputer-zero-default-apps)
+- [`CardputerZero/CameraApp` - Camera app for Cardputer Zero](https://github.com/CardputerZero/CameraApp)
+- [`CardputerZero/RFID` - Standalone NFC/RFID app for Cardputer Zero](https://github.com/CardputerZero/RFID)
 
 ### *Examples* :
 - [`eggfly/CardputerZero-Examples` - App demos for Cardputer Zero](https://github.com/eggfly/CardputerZero-Examples)
@@ -156,4 +159,4 @@ Feel free to edit & open a pull request, open a GitHub issue or contact me on Di
 ## Quick disclaimer
 If you're reading this on [`CardputerZero/CardputerZeroCollection`](https://github.com/CardputerZero/CardputerZeroCollection), it might not be up-to-date due to me not being able to merge PR there, so just know that [`UnAneOnyme/CardputerZeroCollection`](https://github.com/UnAneOnyme/CardputerZeroCollection) might be more up-to-date.
 
-**Last major update on 2026-06-01**, minor update on 2026-06-04
+**Last update on 2026-06-12**
