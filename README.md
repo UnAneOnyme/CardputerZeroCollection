@@ -96,6 +96,7 @@ This special category is dedicated to repos containing software that replaces th
 - [`jayis1/Zero-Day-OS-` - Lightweight pentesting OS for Cardputer Zero](https://github.com/jayis1/Zero-Day-OS-)
 - [`CardputerZero/cardputer-zero-shell` - Post-login GUI shell for Cardputer Zero](https://github.com/CardputerZero/cardputer-zero-shell)
 - [`n0xa/M5CZ-Kali-Graft` - Kali on Cardputer Zero, but with M5Stack's stock OS's App Launcher](https://github.com/n0xa/M5CZ-Kali-Graft)
+- [`jmas/cpzos` - a terminal-first OS instead of a desktop. Work in tabs, change settings from one menu, and open graphical apps when you need them](https://github.com/jmas/cpzos)
 
 ---
 ## Others
