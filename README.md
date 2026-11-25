@@ -83,6 +83,7 @@ A collection of multiple repositories & links related to Cardputer Zero by M5Sta
 - [`CardputerZero/cardputer-zero-default-apps` - Default apps bundle for Cardputer Zero Shell](https://github.com/CardputerZero/cardputer-zero-default-apps)
 - [`CardputerZero/CameraApp` - Camera app for Cardputer Zero](https://github.com/CardputerZero/CameraApp)
 - [`CardputerZero/RFID` - Standalone NFC/RFID app for Cardputer Zero](https://github.com/CardputerZero/RFID)
+- [`catoncat/rex-zero` - Native 30fps Superlogical Rex AI coding agent & terminal client with libghostty-vt, built-in Tailscale, Rime Pinyin & voice dictation](https://github.com/catoncat/rex-zero)
 
 ### *Examples* :
 - [`eggfly/CardputerZero-Examples` - App demos for Cardputer Zero](https://github.com/eggfly/CardputerZero-Examples)
